@@ -1,0 +1,10 @@
+asgiref==3.2.7
+cheroot==8.3.0
+Django==3.0.7
+jaraco.functools==3.0.1
+more-itertools==8.3.0
+Pillow==7.1.2
+pytz==2020.1
+six==1.15.0
+sqlparse==0.3.1
+web.py==0.51
